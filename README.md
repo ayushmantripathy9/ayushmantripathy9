@@ -28,9 +28,9 @@
         <img src="https://github-readme-stats.vercel.app/api?username=ayushmantripathy9&show_icons=true&theme=nightowl" alt="Ayushman's GitHubStats" />
 </p>
 
-Hola!! I'm **Ayushman**, a sophomore at [IIT Roorkee](https://iitr.ac.in/). I am a developer who started exploring dev quite recently. I am currently exploring the world of Dev and Deep Learning and working on some really interesting projects. I love to explore algorithms and design them and do some Competitive Programming to keep myself refreshed :wink:. Apart from all these, I love listening to romantics 🎶 and eating 🍕 at the same time binging one series after another :eyes: when m free.
+Hola!! I'm **Ayushman**, a sophomore at [IIT Roorkee](https://iitr.ac.in/). I am a developer who started exploring dev quite recently. I am currently exploring the world of Dev and Deep Learning and working on some really interesting projects. I love to explore algorithms and design them and do some Competitive Programming to keep myself refreshed :wink:. Apart from all these, I love listening to romantics 🎶 and eating 🍕 at the same time binging one series after another :eyes: when I'm free.
 
-Feel free to reach me out through my ayushman_t@cs.iit.ac.in or through any of my accounts above. Wanna chill out and have some fun over tea while it rains or simply roam around enjoying nature, I would always be there (Potterheads are more welcome :stuck_out_tongue_winking_eye: ) 
+Feel free to reach me out at ayushman_t@cs.iit.ac.in or through any of my accounts above. Wanna chill out and have some fun over tea while it rains or simply roam around enjoying nature, I would always be there (Potterheads are more welcome :stuck_out_tongue_winking_eye: ) 
 
 
 ### Skills
